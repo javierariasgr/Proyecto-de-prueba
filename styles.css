@@ -38,3 +38,9 @@ div.mes {
     font-size: 18px;
     color: #c00;
   }
+
+  body h1 {
+      text-align: center;
+      color: brown;
+      font-family: Arial, Helvetica, sans-serif;
+  }
